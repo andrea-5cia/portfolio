@@ -102,14 +102,13 @@ Logistic Regression remained valuable for communicating variable impact to stake
 
 ## 🗣️ Presentation
 The PDF presentation concisely communicates **findings and recommendations** to non-technical stakeholders (University Quality & Demand Management Office).  
-💡 *Including it in the repository is a good idea*: it shows your ability to translate analytics into decision-ready insights.
+💡 Presentation made with Gamma AI
 
 ---
 
 ## 📬 Author
 **Andrea Sciarrillo**  
-Data Analyst & Scientist — Università di Pavia  
-📧 andrea.sciarrillo@unipv.it  |  [LinkedIn](https://linkedin.com/in/andreasciarrillo)
+Data Analyst & Data Scientist
 
 ---
 
