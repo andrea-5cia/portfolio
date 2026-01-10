@@ -22,7 +22,7 @@ Each project folder includes a `README.md` with **objectives, data, methodology,
 ### ✍️ About Me
 **Data Analyst / Data Scientist**  
 Transforming complex data into actionable insights to support institutional and strategic decision-making.  
-*(IT) Mi occupo di analisi e visualizzazione dati a supporto dei processi decisionali universitari.*
+*(IT) Mi occupo di analisi e visualizzazione dati a supporto dei processi decisionali*
 
 ---
 
