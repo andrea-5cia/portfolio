@@ -1,7 +1,7 @@
 # 🎓 Portfolio – Andrea Sciarrillo
 
 Welcome to my professional portfolio. It showcases projects covering the full data lifecycle:
-- **🤖 Data Science & Machine Learning** – predictive modeling, NLP, clustering, and classification
+- **🤖 Data Science & Machine Learning** – playing with AI: predictive modeling, NLP, clustering, classification
 - **📈 Business Intelligence** – dashboards and KPIs for decision-making _(PDFs)_
 - **🎨 Data Storytelling** – narrative reports and data communication projects _(PDFs)_
 
@@ -20,7 +20,7 @@ Each project folder includes a `README.md` with **objectives, data, methodology,
 ---
 
 ### ✍️ About Me
-**Data Analyst & Scientist at the University of Pavia (UNIPV)**  
+**Data Analyst / Data Scientist**  
 Transforming complex data into actionable insights to support institutional and strategic decision-making.  
 *(IT) Mi occupo di analisi e visualizzazione dati a supporto dei processi decisionali universitari.*
 
@@ -28,4 +28,4 @@ Transforming complex data into actionable insights to support institutional and 
 
 ### 📬 Contact
 - LinkedIn: [linkedin.com/in/andreasciarrillo](https://linkedin.com/in/andreasciarrillo)
-- Email: andrea.sciarrillo@unipv.it
+- Email: andreasciarrillo1998@gmail.com
