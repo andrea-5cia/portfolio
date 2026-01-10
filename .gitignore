@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+
+# IDEs
+.vscode/
+.idea/
+
+# Data - keep only small/synthetic
+*.parquet
+*.feather
+*.zip
+*.7z
+*.tar
+
+# BI heavy files handled as PDF only
+*.pbix
