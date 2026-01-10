@@ -30,7 +30,7 @@ Each report follows the **same analytical structure**, ensuring comparability an
 - Average grades and number of passed exams  
 - Share of honors (*lode*)  
 - Regularity of exam completion within the expected academic year  
-  *(see tables and distributions on pages 1–2 of each report)* :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+  *(see tables and distributions on pages 1–2 of each report)*
 
 ---
 
@@ -40,7 +40,7 @@ Each report follows the **same analytical structure**, ensuring comparability an
 - Standard deviation of final grades  
 - Share of students graduating on time  
 - Relationship between entry grade, final grade, and regularity  
-  *(visualized in histograms and scatter plots, page 3)* :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+  *(visualized in histograms and scatter plots, page 3)*
 
 ---
 
@@ -51,7 +51,7 @@ Each report follows the **same analytical structure**, ensuring comparability an
   - Area geografica benchmark  
   - National benchmark  
 - Dedicated KPI trend dashboards with interactive filtering  
-  *(see pages 4 and 7)* :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+  *(see pages 4 and 7)* 
 
 ---
 
@@ -60,7 +60,7 @@ Each report follows the **same analytical structure**, ensuring comparability an
 - Interactive maps and regional distributions  
 - University of origin (Top N feeder institutions)
 - Citizenship analysis for international students  
-  *(pages 5–6)* :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
+  *(pages 5–6)*
 
 ---
 
