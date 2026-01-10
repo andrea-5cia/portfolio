@@ -27,5 +27,5 @@ Transforming complex data into actionable insights to support institutional and 
 ---
 
 ### 📬 Contact
-- LinkedIn: [linkedin.com/in/andreasciarrillo](www.linkedin.com/in/andrea598)
+- LinkedIn: [www.linkedin.com/in/andrea598]
 - Email: andreasciarrillo1998@gmail.com
