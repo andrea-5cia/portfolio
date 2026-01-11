@@ -31,7 +31,7 @@ These KPIs provide an immediate snapshot of the phenomenon at institutional leve
 ---
 
 ### 🔹 Dropout by Academic Area
-![Dropout by Area](images/2_area_comparison.png)
+![Dropout by Area](2_area_comparison.png)
 
 Comparison of enrollments and dropout rates across academic areas  
 (e.g. Scientific, Engineering, Humanities), highlighting structural differences.
@@ -39,7 +39,7 @@ Comparison of enrollments and dropout rates across academic areas
 ---
 
 ### 🔹 Temporal Trends
-![Temporal Trend](images/3_time_trend.png)
+![Temporal Trend](3_time_trend.png)
 
 Analysis of dropout rate evolution across enrollment cohorts, allowing:
 - detection of worsening or improving trends,
@@ -48,7 +48,7 @@ Analysis of dropout rate evolution across enrollment cohorts, allowing:
 ---
 
 ### 🔹 Area × Time Comparison
-![Area Time Comparison](images/4_area_time.png)
+![Area Time Comparison](4_area_time.png)
 
 Combined view of academic area and enrollment year, useful to:
 - identify critical cohorts,
@@ -57,7 +57,7 @@ Combined view of academic area and enrollment year, useful to:
 ---
 
 ### 🔹 Geographic Origin of Students
-![Geographic Map](images/5_geomap.png)
+![Geographic Map](5_geomap.png)
 
 Spatial distribution of dropout rates by **region of residence**, revealing:
 - territorial patterns,
@@ -66,7 +66,7 @@ Spatial distribution of dropout rates by **region of residence**, revealing:
 ---
 
 ### 🔹 Regional Focus (Lombardy & Piedmont)
-![Regional Focus](images/6_region.png)
+![Regional Focus](6_region.png)
 
 Zoomed analysis at **provincial level** for key feeder regions, supporting:
 - targeted orientation and retention policies.
@@ -74,7 +74,7 @@ Zoomed analysis at **provincial level** for key feeder regions, supporting:
 ---
 
 ### 🔹 High School Grade Analysis
-![High School Grade Boxplot](images/7_highschool_grade_boxplot.png)
+![High School Grade Boxplot](7_highschool_grade_boxplot.png)
 
 Box plot comparison of **high school final grades** between:
 - students who dropped out,
