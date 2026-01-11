@@ -1,9 +1,9 @@
 # 🎓 Portfolio – Andrea Sciarrillo
 
 Welcome to my professional portfolio. It showcases projects covering the full data lifecycle:
-- **🤖 Data Science & Machine Learning** – playing with AI: predictive modeling, NLP, clustering, classification
-- **📈 Business Intelligence** – dashboards and KPIs for decision-making _(PDFs)_
-- **🎨 Data Storytelling** – narrative reports and data communication projects _(PDFs)_
+- **🤖 Data Science & Machine Learning** – working with AI: predictive modeling, NLP, clustering, classification
+- **📈 Business Intelligence** – dashboards and KPIs for decision-making
+- **🎨 Data Storytelling** – narrative reports to communicate results of data analysis
 
 ---
 
