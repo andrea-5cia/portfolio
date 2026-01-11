@@ -1,6 +1,6 @@
 # 🎓 Portfolio – Andrea Sciarrillo
 
-Welcome to my professional portfolio. It showcases projects covering the full data lifecycle:
+Welcome to my professional portfolio. It showcases my data-related projects:
 - **🤖 Data Science & Machine Learning** – working with AI: predictive modeling, NLP, clustering, classification
 - **📈 Business Intelligence** – dashboards and KPIs for decision-making
 - **🎨 Data Analysis + Storytelling** – technical reports and narrative infographics to communicate results
@@ -12,7 +12,7 @@ Welcome to my professional portfolio. It showcases projects covering the full da
 📁 Portfolio-AndreaSciarrillo/
 ├── 1_Data_Science_ML/
 ├── 2_Business_Intelligence/
-└── 3_Data_Storytelling/
+└── 3_Data_Analysis_Storytelling/
 ```
 
 Each project folder includes a `README.md` with **objectives, data, methodology, and results**.
@@ -20,9 +20,7 @@ Each project folder includes a `README.md` with **objectives, data, methodology,
 ---
 
 ### ✍️ About Me
-**Data Analyst / Data Scientist**  
-Transforming complex data into actionable insights to support institutional and strategic decision-making.  
-*(IT) Mi occupo di analisi e visualizzazione dati a supporto dei processi decisionali*
+**Data Analyst & Data Scientist**  
 
 ---
 
