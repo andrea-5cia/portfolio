@@ -2,17 +2,17 @@
 **Qlik Sense – University Logistics Decision Support**
 
 ## 🎯 Objective
-Design and develop an **interactive Business Intelligence dashboard** to support the **University logistics office** in planning and optimizing **classroom usage**, based on:
+Design and develop an **interactive Business Intelligence dashboard** to support the **University logistics office** in planning and optimizing **classroom usage**, using:
 
-- classroom capacity,
-- expected student attendance,
-- actual teaching load,
-- temporal distribution of lessons.
+- classroom capacity (effective seats),
+- expected attendance (students enrolled in courses),
+- teaching load (hours and scheduled commitments),
+- time distribution (day/hour).
 
-The dashboard supports evidence-based decisions to:
-- reduce overcrowding,
+The dashboard supports decisions to:
+- prevent overcrowding,
 - detect under-utilized classrooms,
-- improve lesson scheduling efficiency.
+- improve scheduling efficiency and space allocation.
 
 ---
 
@@ -23,118 +23,113 @@ The dashboard supports evidence-based decisions to:
 
 ## 📊 Dashboard Overview
 
-### 🔹 Home – Global KPIs
+### 🔹 Home – KPIs & Classroom Scatter
 ![Home Overview](images/1aule.png)
 
-High-level indicators providing an immediate overview of the teaching logistics system:
-- Total number of classrooms
-- Distinct teaching commitments
-- Quick access to the university planning system (U-Planner)
+Entry point with:
+- key KPIs (total classrooms, distinct commitments),
+- interactive filters (activity type, building, effective capacity, department/degree),
+- **scatter plot of classrooms** to visually spot usage patterns.
 
-Interactive filters allow selection by:
-- activity type,
-- building,
-- effective classroom capacity,
-- department / degree program.
-
----
-
-### 🔹 Classroom Utilization – Scatter Analysis
-![Scatter Plot](images/2aule.png)
-
-Bubble chart showing:
-- **hours of activity** (x-axis),
-- **distinct teaching commitments** (y-axis),
-- **bubble size proportional to classroom capacity**.
-
-Useful to identify:
-- heavily used vs marginal classrooms,
-- capacity mismatches.
+The scatter plot represents:
+- **Hours of activity** on one axis,
+- **Distinct commitments** on the other,
+- enabling quick identification of heavily used vs low-usage classrooms.
 
 ---
 
-### 🔹 Department-Level Utilization
-![Department Utilization](images/3aule.png)
+### 🔹 Department Utilization – Summary & Space Distribution
+![Department Utilization](images/2aule.png)
 
-Analysis of classroom usage by department, including:
-- total teaching hours,
-- classrooms used,
-- distinct commitments.
-
-Includes:
-- pie chart by department,
-- treemap of classrooms by building and department.
+Department-level view combining:
+- a summary table (hours, classrooms used, distinct commitments),
+- a pie chart to show distribution across departments,
+- a treemap to highlight the “space footprint” and utilization distribution by department/classroom.
 
 ---
 
-### 🔹 Classroom-Level Detail
-![Classroom Detail](images/4aule.png)
+### 🔹 Classroom Utilization – Detail View
+![Classroom Detail](images/3aule.png)
 
-Detailed classroom analysis:
-- effective capacity,
-- number of scheduled activities,
-- total hours delivered.
-
-Highlights:
-- Top 5 most-used classrooms,
-- relationship between commitments and hours.
+Classroom-focused analysis including:
+- a table of classrooms with **capacity**, **distinct commitments**, and **hours**,
+- “Top classrooms” view to identify the most used spaces,
+- comparison between **number of commitments** and **total hours** across classrooms (useful to spot scheduling concentration).
 
 ---
 
-### 🔹 Temporal Planner
-![Planner View](images/5aule.png)
+### 🔹 Planner – Time Slot Load (Day × Hour)
+![Planner View](images/4aule.png)
 
-Time-based view of teaching commitments:
-- distribution by **day of the week** and **hour**,
-- identification of congestion peaks.
+Scheduling-oriented view showing how teaching load is distributed by:
+- **hour of the day**
+- **day of the week**
 
-Key KPIs:
-- total scheduled commitments,
-- number of classrooms involved.
+Useful to:
+- identify peak congestion time slots,
+- support rescheduling strategies to flatten demand.
 
 ---
 
-### 🔹 Occupancy Risk Monitoring
+### 🔹 Commitments Detail Table – Operational Drill-down
+![Commitments Detail](images/5aule.png)
+
+Record-level table designed for operational work:
+- building and classroom,
+- capacity,
+- expected attendance,
+- potential occupancy rate,
+- course / teaching commitment details.
+
+Supports quick verification and “case-by-case” resolution for critical classes.
+
+---
+
+### 🔹 Criticality Focus – Overcrowding & Under-occupation
 ![Criticality Analysis](images/6aule.png)
 
-Dedicated views to identify critical conditions:
-- **Overcrowded classrooms** (>100% capacity),
-- **Under-utilized classrooms** (<75%),
-- **Severely under-utilized classrooms** (<50%).
+Dedicated monitoring views to classify critical situations:
+- **Overcrowding** (>100%)
+- **Under-occupation** (<75%)
+- **Severe under-occupation** (<50%)
 
-Supports corrective and preventive planning actions.
+Enables targeted corrective actions:
+- move classes to better-fitting rooms,
+- consolidate low-attendance lessons,
+- reduce pressure on saturated buildings/time slots.
 
 ---
 
-### 🔹 Structural Capacity Map
+### 🔹 Structures Map – Capacity by Building/Classroom
 ![Structure Map](images/7aule.png)
 
-Tree map representation of:
+Treemap of the physical infrastructure:
 - buildings → classrooms,
-- relative classroom capacity.
+- relative capacity distribution.
 
 Useful for:
-- spatial planning,
-- infrastructure assessment.
+- space planning,
+- infrastructure reporting,
+- identifying capacity concentration across campus.
 
 ---
 
 ## 🧠 Design Principles
-- Decision-oriented BI
-- Strong interactivity through filters
+- **Operational BI**: designed for daily decisions, not only reporting
+- Strong interactivity (filters + drill-down)
 - Clear separation between:
-  - volume (hours, commitments),
-  - efficiency (capacity vs expected attendance)
-- Designed for non-technical stakeholders
+  - **load** (hours, commitments),
+  - **capacity fit** (occupancy vs seats)
+- Stakeholder-friendly visuals for non-technical users
 
 ---
 
 ## 🧩 Use Cases
 - Classroom allocation planning
 - Lesson scheduling optimization
-- Detection of capacity inefficiencies
-- Support to logistics and academic offices
-- Evidence base for infrastructure decisions
+- Prevention of overcrowding
+- Detection of inefficient room usage
+- Support for logistics office and academic planning
 
 ---
 
@@ -142,10 +137,10 @@ Useful for:
 Due to institutional data privacy:
 - raw datasets,
 - planning systems,
-- full Qlik applications  
+- the full Qlik application  
 
 are not publicly shared.  
-Screenshots represent real stakeholder-facing dashboards.
+Screenshots represent stakeholder-facing dashboard views.
 
 ---
 
