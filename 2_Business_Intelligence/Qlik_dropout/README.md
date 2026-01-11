@@ -20,7 +20,7 @@ The dashboard enables multi-level analysis by:
 ## 📊 Dashboard Overview
 
 ### 🔹 Key Indicators (Overview)
-![Overview KPIs](images/1_overview_kpi.png)
+![Overview KPIs](1_overview_kpi.png)
 
 - Total enrollments
 - First-year dropouts
