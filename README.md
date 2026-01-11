@@ -3,7 +3,7 @@
 Welcome to my professional portfolio. It showcases projects covering the full data lifecycle:
 - **🤖 Data Science & Machine Learning** – working with AI: predictive modeling, NLP, clustering, classification
 - **📈 Business Intelligence** – dashboards and KPIs for decision-making
-- **🎨 Data Analysis + Storytelling** – techinal reports and narrative infographics to communicate results
+- **🎨 Data Analysis + Storytelling** – technical reports and narrative infographics to communicate results
 
 ---
 
